@@ -1,0 +1,25 @@
+{
+  "name": "bing-intermediary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgreenwood/bing-intermediary.git"
+  },
+  "author": "Mark Greenwood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markgreenwood/bing-intermediary/issues"
+  },
+  "homepage": "https://github.com/markgreenwood/bing-intermediary#readme",
+  "dependencies": {
+    "blipp": "^2.3.0",
+    "config": "^1.26.2",
+    "got": "^7.1.0",
+    "hapi": "^16.5.2"
+  }
+}
